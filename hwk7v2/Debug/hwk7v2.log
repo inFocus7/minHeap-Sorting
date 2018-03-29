@@ -1,0 +1,3 @@
+﻿  hwk7v2.cpp
+c:\users\fabia\desktop\computer science\projects\c++\hwk7v2\hwk7v2\hwk7v2.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hwk7v2.vcxproj -> C:\Users\fabia\Desktop\Computer Science\Projects\C++\hwk7v2\Debug\hwk7v2.exe
